@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-import "./style.css"
+import "./style.module.css"
 
 export default function Other() {
     return(
