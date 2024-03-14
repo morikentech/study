@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import Image from "next/image"
-import style from "../style/style.module.css"
+import styles from "./style.module.css"
 import JSXStyle from "styled-jsx/style"
 
 export default function Other() {
@@ -13,7 +13,7 @@ export default function Other() {
                     margin : 10px;
                     text-align : center;
                     color: red;
-                    font-weigt: bold;
+                    font-weight: bold;
                 }`}
             </JSXStyle>
             <h1 className={styles.title}>Other page</h1>
