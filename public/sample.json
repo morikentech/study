@@ -1,0 +1,8 @@
+{
+    "message": "Hello, World!",
+    "data": [
+        {"name": "Taro", "mail":"taro@yamada", "age": 30},
+        {"name": "Jane", "mail":"Jane@kashiwagi","age": 25},
+        {"name": "Bob", "mail":"Bob@tanaka","age": 20}
+    ]
+}
