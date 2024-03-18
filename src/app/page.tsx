@@ -1,5 +1,5 @@
-"use server"
-
+"use client"
+a
 const url = "http://localhost:3000/sample.json"
 
 async function getSampleData() {

@@ -4,8 +4,8 @@ export default function Name() {
             <h1 className="title">Name page</h1>
             <p className="msg">/name/◯◯ というように名前をつけてアクセスしてください。</p>
             <div>
-                <a href="/">go back!!</a>
-            </div>
+            <a href="/">go back!!</a>
+        </div>
         </main>
     )
 }
